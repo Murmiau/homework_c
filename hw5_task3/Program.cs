@@ -12,8 +12,16 @@ foreach(int item in array)
     if (max<item)
     {
         max=item;
-        i++;
-    }
+        if (max<min)
+        {
+            min=max;
+            i++;
+        }
+        else
+        {
+            i++;
+        }
+    }   
     else if (min>item)
     {
         min=item;
