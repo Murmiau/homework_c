@@ -1,0 +1,15 @@
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.csproj.AssemblyReference.cache
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.AssemblyInfoInputs.cache
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.AssemblyInfo.cs
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.csproj.CoreCompileInputs.cache
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\bin\Debug\net7.0\hw8_task2.exe
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\bin\Debug\net7.0\hw8_task2.deps.json
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\bin\Debug\net7.0\hw8_task2.runtimeconfig.json
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\bin\Debug\net7.0\hw8_task2.dll
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\bin\Debug\net7.0\hw8_task2.pdb
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.dll
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\refint\hw8_task2.dll
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.pdb
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\hw8_task2.genruntimeconfig.cache
+C:\Users\mirgo\OneDrive\Рабочий стол\hw_c#\hw8_task2\obj\Debug\net7.0\ref\hw8_task2.dll
